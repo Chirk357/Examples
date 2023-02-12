@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.exe
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.deps.json
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.runtimeconfig.json
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.pdb
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.AssemblyInfo.cs
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\refint\Example008_Methods.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.pdb
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.genruntimeconfig.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example008_Methods\obj\Debug\net6.0\ref\Example008_Methods.dll
