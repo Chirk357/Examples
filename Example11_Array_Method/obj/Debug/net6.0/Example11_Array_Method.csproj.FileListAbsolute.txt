@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.AssemblyInfo.cs
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\bin\Debug\net6.0\Example11_Array_Method.exe
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\bin\Debug\net6.0\Example11_Array_Method.deps.json
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\bin\Debug\net6.0\Example11_Array_Method.runtimeconfig.json
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\bin\Debug\net6.0\Example11_Array_Method.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\bin\Debug\net6.0\Example11_Array_Method.pdb
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\refint\Example11_Array_Method.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.pdb
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\Example11_Array_Method.genruntimeconfig.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example11_Array_Method\obj\Debug\net6.0\ref\Example11_Array_Method.dll
