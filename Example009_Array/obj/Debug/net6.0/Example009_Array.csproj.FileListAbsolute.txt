@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.AssemblyInfo.cs
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.exe
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.deps.json
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.runtimeconfig.json
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\bin\Debug\net6.0\Example009_Array.pdb
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\refint\Example009_Array.dll
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.pdb
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\Example009_Array.genruntimeconfig.cache
+C:\Users\Катя\Desktop\GEEKBRAINS\03_Языки программирования\Лекция1_Examples\Example009_Array\obj\Debug\net6.0\ref\Example009_Array.dll
