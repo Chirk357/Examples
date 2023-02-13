@@ -18,6 +18,9 @@
 // void PrintArray - метод = функция, которая печатает массив
 // FillArray(array), PrintArray(array) --> вызов метода
 // Мы сделали: 1. определили массив int[] array = new int [10], потом заполнили его и напечатали
+    // FillArray(array);
+    // array[4] = 4;
+    // array[6] = 4; --> чтобы 4ки были под индексами 4 и 6
 
 
 void FillArray(int[] collection)
@@ -45,7 +48,32 @@ void PrintArray(int[] col)
 
 }
 
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = 0;
+
+    while(index < count)
+    {
+        if(collection[index] == find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+}
+
 int[] array = new int [10];
 
 FillArray(array);
+array[4] = 4;
+array[6] = 4;
+
 PrintArray(array); 
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
